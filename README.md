@@ -86,10 +86,14 @@
     - -n 옵션 : 개행을 붙이지 않고 출력
   - **cd**
     - no arguments : $HOME 으로 이동
-  - **pwd** 
+  - **pwd**
+    
   - **export**
+    
   - **unset**
+    
   - **env**
+    
   - **exit**
 
 ## MINISHELL의 간단한 구현 로직
